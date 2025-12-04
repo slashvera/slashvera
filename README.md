@@ -1,8 +1,17 @@
+
+
 <h1 align="center">Hi , I'm S/ash Rivera <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Computer+Science+Student;Competitive+Programmer;Always+learning+new+things"></a>
 </p>
-🌱 I’m currently learning WEB Development Full-Stack And Cybersecurity
+
+- 🔭 I’m currently learning **WEB Development Full-Stack And Cybersecurity**
+
+- 💬 Ask me about **SQL, MERN, AzureCloud Computer, Linux, Java, JavaScript**
+
+- 📫 How to reach me **slashrivera01@gmail.com**
+
+
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 
