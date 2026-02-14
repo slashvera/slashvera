@@ -23,7 +23,7 @@
 <br>
 <h3 align="left">Frameworks:</h3>
 <p align="left">
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/django.svg" alt="d" width="40" height="40"/>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/django.svg" alt="d" width="55" height="50"/>
 
 
 
