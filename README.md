@@ -23,14 +23,14 @@
 <h3 align="left">Frameworks:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,nextjs,tailwind" />
+    <img src="https://skillicons.dev/icons?i=django,nextjs,tailwind"  width="150" height="150" />
   </a>
 </p>
 
 <h3 align="left">Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,bash" />
+    <img src="https://skillicons.dev/icons?i=git,github,bash" width="150" height="150" />
   </a>
 </p>
 
