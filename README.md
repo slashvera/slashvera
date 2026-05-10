@@ -10,14 +10,14 @@
 <tr>
 <td width="60%">
 
-### 🚀 About Me
+###  About Me
 - 🔭 I’m currently learning **Full-Stack Web Development & Cybersecurity**
 - 💬 Ask me about **SQL, MERN, Azure, Linux, Java, JavaScript**
 - 📫 Contact: **slashrivera01@gmail.com**
 
 ---
 
-### 🧠 Languages:
+###  Languages:
 <p>
 <a href="https://www.cprogramming.com/" target="_blank">
   <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg" width="40"/>
@@ -56,17 +56,17 @@
 
 ---
 
-### ⚙️ Frameworks
+###  Frameworks
 <p>
 <img src="https://skillicons.dev/icons?i=django,nextjs,tailwind" />
 </p>
 
-### 🛠️ Tools
+###  Tools
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,bash" />
 </p>
 
-### 🖥️ OS
+###  OS
 <p>
 <img src="https://skillicons.dev/icons?i=linux,debian,kali" />
 </p>
